@@ -20,8 +20,8 @@ This project demonstrates a simple ETL pipeline built using Python and PostgreSQ
 
 The notebook includes a **bar chart** showing the **Top Products by Sales**, grouped by sub-category:
 
-![Bar Chart of Top Products](assets/top_products_chart.png)  
-*Note: Replace with the correct path or upload the image to your repo*
+![Bar Chart of Top Products](assets/top_products_chart.png) 
+https://github.com/ArthiManju/retail-sales-data-pipeline/blob/main/Top%20products%20by%20Sales.PNG
 
 ## 🚀 How to Run
 
